@@ -16,27 +16,22 @@
 ### Homebrew
 
 ```sh
-brew tap arrow2nd/tap
+brew tap Rikiya-0427/tap
 brew install nimotsu
 ```
 
 ### Scoop
 
 ```
-scoop bucket add arrow2nd https://github.com/arrow2nd/scoop-bucket.git
-scoop install arrow2nd/nimotsu
+scoop bucket add Rikiya-0427 https://github.com/Rikiya-0427/scoop-bucket.git
+scoop install Rikiya-0427/nimotsu
 ```
 
 ### Go
 
 ```sh
-go install github.com/arrow2nd/nimotsu@latest
+go install github.com/Rikiya-0427/nimotsu@latest
 ```
-
-### それ以外
-
-[Releases](https://github.com/arrow2nd/nimotsu/releases)
-からお使いの環境にあったファイルをダウンロードしてください。
 
 ## コマンド
 
